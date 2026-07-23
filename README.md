@@ -24,6 +24,8 @@ Estructura del Proyecto
 └── README.md    # Documentación del repositorio
 ```
 
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/9151c5a0-b635-4abd-bae9-024ff9b26441" />
+
 
 Cómo Ejecutar Localmente
 
@@ -43,10 +45,17 @@ No se requiere ningún paso de compilación complejo ni instalación de dependen
      ```
      Luego navega a `http://localhost:8000`.
 
+<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/3812a3d0-df67-4afa-9ab6-36b948f8d301" />
+     
+
 Tecnologías Utilizadas
 
 - **HTML5 / CSS3:** Estructura semántica e interfaz de usuario.
 - **JavaScript (ES6+):** Lógica del temporizador e interacciones.
 - **[Three.js](https://threejs.org/):** Renderizado y manipulado 3D en el navegador mediante WebGL.
 - **[GSAP (TweenMax)](https://greensock.com/gsap/):** Animaciones fluidas para el giro de caras y transiciones.
+
+<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/9f452d6f-e909-4b7f-8a34-63abe63a2535" />
+
+<img width="1600" height="864" alt="image" src="https://github.com/user-attachments/assets/e6856758-3dcb-4337-9efc-0e4939366a7a" />
 
